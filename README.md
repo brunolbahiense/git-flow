@@ -34,3 +34,11 @@ podemos sempre criar um hotfix para corrigir algo que ocorreu em nosso código
 git flow hotfix start 1.1
 
 git flow hotfix finish 1.1
+
+## Publish
+
+podemos subir os updates que estamos fazendo nas features e hotfixes mesmo antes de finaliza-los com o publish
+
+git flow feature start js
+git flow feature publish js
+git flow feature finish js
