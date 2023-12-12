@@ -39,4 +39,6 @@ git flow hotfix finish 1.1
 
 podemos subir os updates que estamos fazendo nas features e hotfixes mesmo antes de finaliza-los com o publish
 
+git flow feature start js
 git flow feature publish js
+git flow feature finish js
