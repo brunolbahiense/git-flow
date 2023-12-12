@@ -11,3 +11,9 @@ assim que o comando terminar, ja estaremos na branch de development
 
 ## 2. Usando a Feature
 as features são updates que não estavam inicialmente envolvidos no escopo selecionado, ou seja, são novas mudanças que foram solicitadas no meio do caminho. assim, para adicionar uma nova utilizamos o git flow
+
+git flow feature start css
+
+para finalizar essa feature iremos fazer o seguinte comando
+git flow feature finish
+assim o merge é feito e a branch se finaliza
