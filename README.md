@@ -28,3 +28,9 @@ esta branch é feita para que os testes possam ser aplicados, assim podemos envi
 
 assim que corrigir todos os bugs podemos finalizar
 git flow release finish 1.0
+
+## 4. hotfix
+podemos sempre criar um hotfix para corrigir algo que ocorreu em nosso código
+git flow hotfix start 1.1
+
+git flow hotfix finish 1.1
