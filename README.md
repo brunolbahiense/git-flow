@@ -8,4 +8,6 @@ assim que ele acontecer, sugiro manter os nomes que ja vem como sugestão para c
 
 assim que o comando terminar, ja estaremos na branch de development
 
-## 2. 
+
+## 2. Usando a Feature
+as features são updates que não estavam inicialmente envolvidos no escopo selecionado, ou seja, são novas mudanças que foram solicitadas no meio do caminho. assim, para adicionar uma nova utilizamos o git flow
