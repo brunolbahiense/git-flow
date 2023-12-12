@@ -35,10 +35,17 @@ git flow hotfix start 1.1
 
 git flow hotfix finish 1.1
 
-## Publish
+## 5. Publish
 
 podemos subir os updates que estamos fazendo nas features e hotfixes mesmo antes de finaliza-los com o publish
 
 git flow feature start js
 git flow feature publish js
 git flow feature finish js
+
+
+## 6. Push
+podemos finalizar os updates subindo para o servidor remoto utilizando o seguinte comando
+
+git push --all
+assim subimos updates em todas as branches criadas
