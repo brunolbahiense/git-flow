@@ -38,3 +38,5 @@ git flow hotfix finish 1.1
 ## Publish
 
 podemos subir os updates que estamos fazendo nas features e hotfixes mesmo antes de finaliza-los com o publish
+
+git flow feature publish js
